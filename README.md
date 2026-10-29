@@ -124,6 +124,7 @@ A curated list of awesome Node.js Security resources.
 - [npm-audit-resolver](https://www.npmjs.com/package/npm-audit-resolver) - Manage npm-audit results, including options to ignore specific issues in clear and auditable way.
 - [gammaray](https://github.com/nearform/gammaray) - Runs a security audit based on your package.json using the [Node.js Security Working Group vulnerability data](https://github.com/nodejs/security-wg/).
 - [patch-package](https://www.npmjs.com/package/patch-package) - Allows app authors to create fixes for npm dependencies (in node_modules) without forking or waiting for merged PRs, by creating and applying patches.
+- [npmscan](https://npmscan.com/) - A remote supply-chain security service and MCP plugin that audits npm packages for malware, trust, and AI vulnerabilities before installation.
 - [check-my-headers](https://github.com/UlisesGascon/check-my-headers) - Fast and simple way to check any HTTP Headers.
 - [clawsearch-guard](https://www.npmjs.com/package/clawsearch-guard) - Pre-install security check for AI agent skills and npm packages. Runs Trust Score analysis before installation to detect malicious patterns, data exfiltration, and prompt injection.
 - [is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable/) - finds publicly known security vulnerabilities in a website's frontend JavaScript libraries.
@@ -159,6 +160,7 @@ A curated list of awesome Node.js Security resources.
 - [@w-r-l/verify](https://www.npmjs.com/package/@w-r-l/verify) - Verify cryptographic integrity of WACZ web archive bundles. Checks Ed25519 signatures and RFC 3161 timestamps.
 - [pompelmi](https://github.com/pompelmi/pompelmi) - Local-first file upload scanning for Node.js to inspect untrusted files before storage.
 - [verifyfetch](https://github.com/hamzaydia/verifyfetch) - SRI-based integrity verification and resumable downloads for large files. Protects against CDN compromise and supply chain attacks in the browser.
+- [npmscan](https://npmscan.com/) - A remote supply-chain security service and MCP plugin that audits npm packages for malware, trust, and AI vulnerabilities before installation.
 
 # Data Sources
 
